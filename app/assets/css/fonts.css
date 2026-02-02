@@ -1,0 +1,83 @@
+@font-face {
+  font-family: 'FUNKEpublish';
+  src: url('../fonts/FUNKEpublish-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FUNKEpublish';
+  src: url('../fonts/FUNKEpublish-LightItalic.otf') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'FUNKEpublish';
+  src: url('../fonts/FUNKEpublish-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FUNKEpublish';
+  src: url('../fonts/FUNKEpublish-Italic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'FUNKEpublish';
+  src: url('../fonts/FUNKEpublish-Semibold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FUNKEpublish';
+  src: url('../fonts/FUNKEpublish-SemiboldItalic.otf') format('opentype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'FUNKEpublish';
+  src: url('../fonts/FUNKEpublish-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FUNKEpublish';
+  src: url('../fonts/FUNKEpublish-BoldItalic.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'FUNKEpublish';
+  src: url('../fonts/FUNKEpublish-Extrabold.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FUNKEpublish';
+  src: url('../fonts/FUNKEpublish-ExtraboldItalic.otf') format('opentype');
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'FUNKEpublish';
+  src: url('../fonts/FUNKEpublish-Ultrabold.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FUNKEpublish';
+  src: url('../fonts/FUNKEpublish-UltraboldItalic.otf') format('opentype');
+  font-weight: 900;
+  font-style: italic;
+}
